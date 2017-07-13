@@ -1,0 +1,8 @@
+c:\users\arkac\onedrive\documents\visual studio 2012\Projects\Tp1_lab2\Tp1_lab2\bin\Debug\Tp1_lab2.exe.config
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\obj\Debug\Tp1_lab2.Form1.resources
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\obj\Debug\Tp1_lab2.Properties.Resources.resources
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\obj\Debug\Tp1_lab2.csproj.GenerateResource.Cache
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\bin\Debug\Tp1_lab2.exe
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\bin\Debug\Tp1_lab2.pdb
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\obj\Debug\Tp1_lab2.exe
+C:\Users\arkac\OneDrive\Documents\Visual Studio 2012\Projects\Tp1_lab2\Tp1_lab2\obj\Debug\Tp1_lab2.pdb
